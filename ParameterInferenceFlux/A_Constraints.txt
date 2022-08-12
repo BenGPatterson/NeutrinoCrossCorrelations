@@ -1,0 +1,55 @@
+file: cl_flux_number.fits, z bin: all, includes first ell: True, [0.16,0.5,0.84] quantiles: [-0.005562   -0.00157231  0.00248658], A = -0.0015723053098965008 (+0.004058887806567584, -0.0039896992578026015)
+
+file: cl_flux_number.fits, z bin: all, includes first ell: False, [0.16,0.5,0.84] quantiles: [-0.00766103 -0.00333294  0.000921  ], A = -0.0033329436457361964 (+0.0042539395710157754, -0.00432809105686649)
+
+file: cl_flux_number.fits, z bin: 0, includes first ell: True, [0.16,0.5,0.84] quantiles: [-0.00495797  0.00112262  0.00713455], A = 0.0011226211914738852 (+0.006011932480087919, -0.00608058796491468)
+
+file: cl_flux_number.fits, z bin: 1, includes first ell: True, [0.16,0.5,0.84] quantiles: [-0.01314026 -0.00639628  0.0003046 ], A = -0.006396277424703283 (+0.006700881688875057, -0.006743978685328825)
+
+file: cl_flux_number.fits, z bin: 2, includes first ell: True, [0.16,0.5,0.84] quantiles: [-0.0008918   0.00805933  0.01697148], A = 0.008059325573972483 (+0.008912150101699965, -0.008951121753086962)
+
+file: cl_flux_number.fits, z bin: 3, includes first ell: True, [0.16,0.5,0.84] quantiles: [-0.00581589  0.00474834  0.01546398], A = 0.004748340358446106 (+0.010715639284145675, -0.010564229719362274)
+
+file: cl_flux_number.fits, z bin: 4, includes first ell: True, [0.16,0.5,0.84] quantiles: [-0.01029299  0.00239572  0.01540843], A = 0.0023957235906658303 (+0.013012706928278602, -0.012688709301150347)
+
+file: cl_flux_number.fits, z bin: 5, includes first ell: True, [0.16,0.5,0.84] quantiles: [-0.03779999 -0.02084721 -0.00384269], A = -0.020847208020473972 (+0.01700451737658086, -0.01695277937866613)
+
+file: cl_flux_number.fits, z bin: 0, includes first ell: False, [0.16,0.5,0.84] quantiles: [-0.01101281 -0.00456291  0.00190064], A = -0.0045629118881870216 (+0.006463553147221908, -0.006449902059593596)
+
+file: cl_flux_number.fits, z bin: 1, includes first ell: False, [0.16,0.5,0.84] quantiles: [-0.0143449  -0.00764063 -0.00061598], A = -0.007640625576499545 (+0.007024640959032192, -0.0067042705833366195)
+
+file: cl_flux_number.fits, z bin: 2, includes first ell: False, [0.16,0.5,0.84] quantiles: [-0.00266151  0.00622634  0.01508507], A = 0.006226338057289501 (+0.008858731329006959, -0.008887850923709974)
+
+file: cl_flux_number.fits, z bin: 3, includes first ell: False, [0.16,0.5,0.84] quantiles: [-0.00892165  0.0020091   0.01291146], A = 0.002009098461476396 (+0.010902357338811515, -0.010930744185620504)
+
+file: cl_flux_number.fits, z bin: 4, includes first ell: False, [0.16,0.5,0.84] quantiles: [-0.01946166 -0.00653429  0.00667576], A = -0.0065342895624202115 (+0.013210045606227273, -0.012927369277002871)
+
+file: cl_flux_number.fits, z bin: 5, includes first ell: False, [0.16,0.5,0.84] quantiles: [-0.04185802 -0.02427102 -0.00694245], A = -0.024271017310735728 (+0.017328570828524452, -0.01758700401223321)
+
+file: cl_flux_energy.fits, z bin: all, includes first ell: True, [0.16,0.5,0.84] quantiles: [-116.00154067  -67.94959577  -20.76592259], A = -67.94959577105578 (+47.18367318274845, -48.051944894501204)
+
+file: cl_flux_energy.fits, z bin: all, includes first ell: False, [0.16,0.5,0.84] quantiles: [-126.55679739  -75.22160235  -23.17174695], A = -75.22160235300703 (+52.049855400101364, -51.335195041829564)
+
+file: cl_flux_energy.fits, z bin: 0, includes first ell: True, [0.16,0.5,0.84] quantiles: [-89.20270494 -18.48735508  51.97271834], A = -18.487355079188184 (+70.46007341621248, -70.71534985633073)
+
+file: cl_flux_energy.fits, z bin: 1, includes first ell: True, [0.16,0.5,0.84] quantiles: [-117.38233154  -18.9731831    78.07010037], A = -18.973183102009006 (+97.0432834749273, -98.40914843703577)
+
+file: cl_flux_energy.fits, z bin: 2, includes first ell: True, [0.16,0.5,0.84] quantiles: [ 11.29073001 129.681015   244.85557126], A = 129.68101499613294 (+115.17455626360157, -118.39028498617749)
+
+file: cl_flux_energy.fits, z bin: 3, includes first ell: True, [0.16,0.5,0.84] quantiles: [-143.7837843   -16.63132385  110.70249139], A = -16.631323845639145 (+127.33381523959727, -127.15246045605309)
+
+file: cl_flux_energy.fits, z bin: 4, includes first ell: True, [0.16,0.5,0.84] quantiles: [-232.20068427  -70.40029851   94.42527956], A = -70.40029850812776 (+164.82557806543417, -161.8003857615879)
+
+file: cl_flux_energy.fits, z bin: 5, includes first ell: True, [0.16,0.5,0.84] quantiles: [-422.56506115 -207.27541383    9.1651544 ], A = -207.27541382874028 (+216.44056822531792, -215.28964731868302)
+
+file: cl_flux_energy.fits, z bin: 0, includes first ell: False, [0.16,0.5,0.84] quantiles: [-135.82122294  -62.3642463    10.19543533], A = -62.36424629944794 (+72.55968163129818, -73.45697664037517)
+
+file: cl_flux_energy.fits, z bin: 1, includes first ell: False, [0.16,0.5,0.84] quantiles: [-134.35532907  -34.64100038   66.1970172 ], A = -34.64100037945915 (+100.83801757828266, -99.71432868560987)
+
+file: cl_flux_energy.fits, z bin: 2, includes first ell: False, [0.16,0.5,0.84] quantiles: [ -7.9560365  109.66107516 226.39646574], A = 109.66107515937094 (+116.73539057922443, -117.61711165678803)
+
+file: cl_flux_energy.fits, z bin: 3, includes first ell: False, [0.16,0.5,0.84] quantiles: [-167.35976187  -42.14776796   91.06949292], A = -42.14776795596075 (+133.2172608782047, -125.21199391466692)
+
+file: cl_flux_energy.fits, z bin: 4, includes first ell: False, [0.16,0.5,0.84] quantiles: [-329.85336154 -160.11010356    1.29732722], A = -160.1101035625264 (+161.40743078672833, -169.74325797815752)
+
+file: cl_flux_energy.fits, z bin: 5, includes first ell: False, [0.16,0.5,0.84] quantiles: [-469.41711148 -248.28987221  -26.14293733], A = -248.28987220996726 (+222.14693488150564, -221.12723926658538)
